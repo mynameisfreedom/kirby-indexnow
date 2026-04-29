@@ -1,6 +1,6 @@
 {
   "name": "@mynameisfreedom/kirby-indexnow",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "description": "IndexNow plugin for Kirby CMS with automatic URL submission and a Panel log view.",
   "main": "index.js",

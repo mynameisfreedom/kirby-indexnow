@@ -1,7 +1,7 @@
 {
   "name": "mynameisfreedom/kirby-indexnow",
   "description": "IndexNow plugin for Kirby CMS with automatic URL submission and a Panel log view.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "kirby-plugin",
   "license": "MIT",
   "homepage": "https://github.com/mynameisfreedom/kirby-indexnow",
