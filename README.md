@@ -2,6 +2,8 @@
 
 A Kirby 5 plugin that automatically submits published page URLs to [IndexNow](https://www.bing.com/indexnow/getstarted) when content changes, with a Panel log view.
 
+![IndexNow Panel view](.github/screenshot.png)
+
 ## Features
 
 - Submits on page create, update, publish, changeSlug, changeUrl, and changeTitle events

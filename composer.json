@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "type": "kirby-plugin",
   "license": "MIT",
+  "homepage": "https://github.com/mynameisfreedom/kirby-indexnow",
   "keywords": [
     "kirby",
     "kirby-cms",
@@ -17,6 +18,10 @@
       "email": "support@thezero.club"
     }
   ],
+  "support": {
+    "issues": "https://github.com/mynameisfreedom/kirby-indexnow/issues",
+    "source": "https://github.com/mynameisfreedom/kirby-indexnow"
+  },
   "require": {
     "php": ">=8.2",
     "getkirby/cms": "^5.0",

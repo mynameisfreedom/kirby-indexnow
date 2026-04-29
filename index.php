@@ -238,7 +238,6 @@ Kirby::plugin('mynameisfreedom/kirby-indexnow', [
         'css' => 'index.css',
     ],
     'hooks' => $indexnowHooks,
-    // Panel area with native Panel view; keeps /indexnow-log route as fallback
     'areas' => [
         'indexnow' => function () {
             return [
