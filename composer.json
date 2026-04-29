@@ -1,0 +1,33 @@
+{
+  "name": "mynameisfreedom/kirby-indexnow",
+  "description": "IndexNow plugin for Kirby CMS with automatic URL submission and a Panel log view.",
+  "version": "1.0.0",
+  "type": "kirby-plugin",
+  "license": "MIT",
+  "keywords": [
+    "kirby",
+    "kirby-cms",
+    "plugin",
+    "indexnow",
+    "seo"
+  ],
+  "authors": [
+    {
+      "name": "Branko Matic",
+      "email": "support@thezero.club"
+    }
+  ],
+  "require": {
+    "php": ">=8.2",
+    "getkirby/cms": "^5.0",
+    "getkirby/composer-installer": "^1.2"
+  },
+  "extra": {
+    "installer-name": "indexnow"
+  },
+  "autoload": {
+    "files": [
+      "index.php"
+    ]
+  }
+}

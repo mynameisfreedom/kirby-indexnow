@@ -1,0 +1,33 @@
+.k-indexnow-view {
+  padding: var(--spacing-6);
+}
+
+.k-indexnow-view .k-header {
+  margin-bottom: var(--spacing-6);
+}
+
+.k-indexnow-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--spacing-3);
+  margin-bottom: var(--spacing-6);
+}
+
+.k-indexnow-status-box {
+  margin-bottom: var(--spacing-6);
+}
+
+.k-indexnow-status-box p + p {
+  margin-top: var(--spacing-2);
+}
+
+.k-indexnow-log-heading {
+  margin-bottom: var(--spacing-3);
+  font-weight: var(--font-semi);
+}
+
+.k-indexnow-log-box pre {
+  margin: 0;
+  white-space: pre-wrap;
+  word-break: break-word;
+}

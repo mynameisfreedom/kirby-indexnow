@@ -1,0 +1,37 @@
+{
+  "name": "@mynameisfreedom/kirby-indexnow",
+  "version": "1.0.0",
+  "private": false,
+  "description": "IndexNow plugin for Kirby CMS with automatic URL submission and a Panel log view.",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mynameisfreedom/kirby-indexnow"
+  },
+  "bugs": {
+    "url": "https://github.com/mynameisfreedom/kirby-indexnow/issues"
+  },
+  "homepage": "https://github.com/mynameisfreedom/kirby-indexnow#readme",
+  "keywords": [
+    "kirby",
+    "kirby-cms",
+    "plugin",
+    "indexnow",
+    "seo",
+    "search-engine",
+    "url-submission"
+  ],
+  "author": {
+    "name": "Branko Matic",
+    "email": "support@thezero.club",
+    "url": "https://thezero.club"
+  },
+  "scripts": {
+    "dev": "kirbyup src/index.js --watch",
+    "build": "kirbyup src/index.js"
+  },
+  "devDependencies": {
+    "kirbyup": "^3.3.0"
+  }
+}
