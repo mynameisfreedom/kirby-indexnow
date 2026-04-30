@@ -4,6 +4,17 @@ A Kirby 5 plugin that automatically submits published page URLs to [IndexNow](ht
 
 ![IndexNow Panel view](.github/screenshot.png)
 
+## Why use IndexNow
+
+IndexNow lets you instantly notify search engines when your content changes — instead of waiting for bots to discover it on their own. One submission reaches all participating engines (Bing, Yandex, Seznam, Naver, and others), which also share URLs with each other automatically. Since AI tools like ChatGPT, Copilot, and Perplexity rely on search engine indexes for their web knowledge, faster indexing means your content is more likely to be included and surfaced in AI-generated responses as well.
+
+Key benefits:
+
+- **Instant indexing** — changes appear in search results almost immediately, rather than days or weeks later
+- **Efficient crawling** — search bots no longer need to poll your pages continuously, reducing unnecessary server load
+- **Faster backlink recognition** — new links are discovered sooner, so link equity flows more quickly
+- **Single submission** — notifying one participating engine alerts all the others automatically
+
 ## Features
 
 - Submits on page create, update, publish, changeSlug, changeUrl, and changeTitle events
